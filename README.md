@@ -59,7 +59,7 @@ A fully functional note-taking application built using the **MERN (MongoDB, Expr
    Create a `.env` file in the `backend` directory with the following details:  
    ```env  
    MONGO_URI=<your-mongodb-connection-string>  
-   PORT=5173  
+   PORT=3000 
    ```  
 
 4. **Run the backend server**:  
